@@ -1,0 +1,12 @@
+data/
+node_modules/
+.playwright-mcp/
+.deploy/
+screenshots/
+sites/
+.env
+.env.*
+*.pem
+*.key
+*.db-wal
+*.db-shm
